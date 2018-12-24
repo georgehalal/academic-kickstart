@@ -1,29 +1,50 @@
 +++
-# Recent Posts widget.
-# This widget displays recent posts from `content/post/`.
-widget = "posts"
-active = true
-date = 2016-04-20T00:00:00
+# Experience widget.
+widget = "experience"  # Do not modify this line!
+active = true  # Activate this widget? true/false
 
-title = "Recent Posts"
+title = "Hardware Experience"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 40
+weight = 9
 
-# Filter posts by tag.
-#  By default, show all recent posts.
-#  Filtering example: `tags_include = ["hugo", "academic"]`
-tags_include = []
-tags_exclude = []
+# Date format for experience
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "2006"
 
-# Number of posts to list.
-count = 5
+# Experiences.
+#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "Building an Event Plane & Centrality Detector (EPD) for the STAR Experiment"
+  company = "Lehigh University & The Ohio State University"
+  company_url = ""
+  location = ""
+  date_start = "2016-01-01"
+  date_end = "2018-01-01"
+  description = """
+  Advisors: Rosi Reed & Michael Lisa
+  
+  * Helped build and test one of the detector upgrades proposed for the second phase of the Relativistic Heavy Ion Collider (RHIC) Beam Energy Scan (BES). The EPD increases precision in triggering on events and in measuring the event plane and centrality of collisions with significant timing resolution. It is designed such that when a minimum ionizing particle (MIP) hits one of the optically-isolated tiles of this detector, which are made of special plastic material, photons are generated through scintillation. The photons then travel through a wavelength-shifting fiber embedded in the tile to a clear optical fiber to be detected by silicon photo-multipliers.
+  """
 
-# List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = Stream
-list_format = 2
+[[experience]]
+  title = "Cosmic Ray & Radioactive Source Testing of the Event Plane Detector (EPD)"
+  company = "The Ohio State University"
+  company_url = ""
+  location = ""
+  date_start = "2017-01-01"
+  date_end = "2017-01-01"
+  description = """
+  Advisors: Michael Lisa & Rosi Reed
+  
+  * Helped build two test stands that use cosmic rays and a radioactive source to quantify the quality and uniformity of the EPD sectors.
+  * Connected different electronics boards to each other and to silicon photomultipliers to digitize the signals detected.
+  * Performed different calculations, such as the distance an electron from the radioactive source can travel through different materials before stopping.
+  * Analyzed data collected from both tests using ROOT.
+  """
+
 +++
-
