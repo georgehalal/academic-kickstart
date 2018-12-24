@@ -60,7 +60,7 @@ enableGitInfo = false
   organizations = [ { name = "Lehigh University", url = "https://www1.lehigh.edu/home" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "IMG-4394.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "halalgeorge@gmail.com"
@@ -269,7 +269,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "files/cv.pdf"
+    link = "files/CV_GeorgeHalal_Nov2018.pdf"
 
   #[[params.social]]
   #  icon = "github"
@@ -325,7 +325,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[menu.main]]
     name = "CV"
-    url = "files/cv.pdf"
+    url = "files/CV_GeorgeHalal_Nov2018.pdf"
     weight = 7
 
 # Search.
