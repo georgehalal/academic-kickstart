@@ -9,7 +9,7 @@
 baseurl = "https://georgehalal.github.io/"
 
 # Title of your site
-title = "Academic"
+title = "George Halal"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -52,7 +52,7 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
+  name = "George Halal"
   role = "Professor of Artificial Intelligence"
 
   # Organizations/Affiliations.
