@@ -22,21 +22,33 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "terminal"
+  icon_pack = "fas"
+  name = "Platforms"
+  description = "Linux, Windows, Macintosh"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "code"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Languages"
+  description = "C++, Python, Arduino, LabVIEW, LaTeX, Slurm"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "atom"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
+  name = "Technical"
+  description = "ROOT, PYTHIA, FastJet, JETSCAPE, DiffGeo"
+  
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "Keras (TensorFlow), scikit-learn, TMultilayerPerceptron, TMLPAnalyzer"
+  
+[[feature]]
+  icon = "laptop"
+  icon_pack = "fas"
+  name = "Other"
+  description = "AutoCAD, Microsoft Office"
+  
 +++
