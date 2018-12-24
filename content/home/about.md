@@ -10,31 +10,24 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "High Energy Physics",
+    "Data Analysis",
+    "Electronics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "BS in Physics, Minor in Applied Mathematics, GPA: 3.97/4.00"
+  institution = "Lehigh University, PA"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "High School Diploma, GPA: 4.00/4.00 (Valedictorian)"
+  institution = "Eastwood International School, Lebanon"
+  year = 2015
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Born and raised in Syria, my family and I moved to Lebanon in 2012 due to the Syrian Civil War. After graduating high school as valedictorian, I moved to the U.S. for college and my family moved to Dubai, UAE. I am now an undergraduate senior at Lehigh University, majoring in physics and minoring in applied mathematics. I use machine learning techniques (a form of artificial intelligence) to analyze data coming from ultrarelativistic heavy ion collisions to better understand the strong force (Quantum Chromodynamics). I plan to pursue a Ph.D. in Experimental High Energy Physics and eventually become a professor at a research university.
