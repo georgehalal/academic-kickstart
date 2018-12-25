@@ -30,7 +30,7 @@ weight = 7
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Languages"
+  name = "Programming"
   description = "C++, Python, Arduino, LabVIEW, LaTeX, Slurm"  
   
 [[feature]]
@@ -49,6 +49,24 @@ weight = 7
   icon = "laptop"
   icon_pack = "fas"
   name = "Other"
-  description = "AutoCAD, Microsoft Office"
+  description = "AutoCAD, Microsoft Office"  
   
+[[feature]]
+  icon = "bolt"
+  icon_pack = "fas"
+  name = "Electronics"
+  description = "Oscilloscope, Function Generator, Multimeter, Lock-in Amplifier"  
+  
+[[feature]]
+  icon = "tools"
+  icon_pack = "fas"
+  name = "Machine Shop"
+  description = "Metalworking & Soldering, Woodworking, 3D printing"
+ 
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "Languages"
+  description = "English, Arabic, French"
+ 
 +++
