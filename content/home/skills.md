@@ -36,7 +36,7 @@ weight = 7
 [[feature]]
   icon = "atom"
   icon_pack = "fas"
-  name = "Technical"
+  name = "Technical Software"
   description = "ROOT, PYTHIA, FastJet, JETSCAPE, DiffGeo"
   
 [[feature]]
@@ -48,7 +48,7 @@ weight = 7
 [[feature]]
   icon = "laptop"
   icon_pack = "fas"
-  name = "Other"
+  name = "Other Software"
   description = "AutoCAD, Microsoft Office"  
   
 [[feature]]
@@ -67,6 +67,6 @@ weight = 7
   icon = "language"
   icon_pack = "fas"
   name = "Languages"
-  description = "English, Arabic, French"
+  description = "English (fluent), Arabic (fluent), French (proficient)"
  
 +++
