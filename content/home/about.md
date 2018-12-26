@@ -10,8 +10,8 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "High Energy Physics",
-    "Data Analysis",
+    "Experimental High Energy Physics",
+    "Deep Learning",
     "Electronics"
   ]
 
@@ -30,4 +30,4 @@ weight = 1
 
 # Biography
 
-Born and raised in Syria, my family and I moved to Lebanon in 2012 due to the Syrian Civil War. After graduating high school in Lebanon, I moved to the U.S. for college and my family moved to Dubai, UAE. I am now an undergraduate senior at Lehigh University, majoring in physics and minoring in applied mathematics. I use machine learning techniques (a form of artificial intelligence) to analyze data coming from ultrarelativistic heavy ion collisions to better understand the strong force (Quantum Chromodynamics). I plan on pursuing a Ph.D. in Experimental High Energy Physics upon graduation and eventually working as a professor at a research university.
+Born and raised in Syria, my family and I moved to Lebanon in 2012 due to the Syrian Civil War. After graduating high school in Lebanon, I moved to the U.S. for college and my family moved to Dubai, UAE. I am now an undergraduate senior at Lehigh University, majoring in physics and minoring in applied mathematics. I use machine learning techniques, a form of artificial intelligence, to analyze data from ultrarelativistic heavy ion collisions at the STAR experiment at RHIC to study strong interactions. I plan on pursuing a Ph.D. in experimental high energy physics upon graduation and eventually working as a professor at a research university.
