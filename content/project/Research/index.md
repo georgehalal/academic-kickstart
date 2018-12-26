@@ -6,7 +6,7 @@ title = "Research"
 date = 2018-12-25T00:00:00
 
 # Project summary to display on homepage.
-summary = "Some of my hardware projects and groups I have worked with."
+summary = "Click here for some of my hardware projects and the groups I have worked with."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
