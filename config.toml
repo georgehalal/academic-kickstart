@@ -302,7 +302,7 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Galleries"
+  name = "Projects"
   url = "#projects"
   weight = 3
 
