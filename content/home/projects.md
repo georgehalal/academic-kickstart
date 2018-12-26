@@ -2,13 +2,13 @@
 # Projects widget.
 widget = "projects"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-12-25T00:00:00
 
 title = "Galleries"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 3
 
 # Content.
 # Display content from the following folder.
