@@ -66,7 +66,7 @@ enableGitInfo = false
   email = "halalgeorge@gmail.com"
   address = "4 Farrington Square # 5699, Bethlehem, PA, 18015, USA"
   office_hours = ""
-  phone = "929 385 5086"
+  phone = "+1 929 385 5086"
   skype = "george-hallal"
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -141,7 +141,7 @@ enableGitInfo = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -259,7 +259,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+    link = "mailto:halalgeorge@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "linkedin"
@@ -297,36 +297,31 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Skills"
+  url = "#skills
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Galleries"
+  url = "#projects"
   weight = 3
 
 [[menu.main]]
   name = "Projects"
-  url = "#projects"
+  url = "#experience"
   weight = 4
-
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[menu.main]]
     name = "CV"
     url = "files/CV_GeorgeHalal_Nov2018.pdf"
-    weight = 7
+    weight = 6
 
 # Search.
 [params.search]
@@ -334,7 +329,7 @@ enableGitInfo = false
   #   0: No search engine
   #   1: Built-in (Fuse)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
