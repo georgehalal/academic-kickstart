@@ -2,10 +2,10 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-12-25T00:00:00
 
 # Order that this section will appear in.
-weight = 5
+weight = 1
 
 # List your academic interests.
 [interests]
@@ -22,7 +22,7 @@ weight = 5
   year = 2019
 
 [[education.courses]]
-  course = "High School, GPA: 4.00/4.00, Valedictorian"
+  course = "High School, GPA: 4.00/4.00 (Valedictorian)"
   institution = "Eastwood International School, Beirut, Lebanon"
   year = 2015
  
