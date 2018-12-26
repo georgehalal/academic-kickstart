@@ -1,7 +1,7 @@
 +++
 # Feature/Skill widget.
 widget = "featurette"  # Do not modify this line!
-date = 2017-09-20T00:00:00
+date = 2018-12-25T00:00:00
 
 # Activate this widget? true/false
 active = true
@@ -10,7 +10,7 @@ title = "Skills"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 7
+weight = 2
 
 # Showcase personal skills or business features.
 # 
@@ -58,7 +58,7 @@ weight = 7
   description = "Oscilloscope, Function Generator, Multimeter, Lock-in Amplifier"  
   
 [[feature]]
-  icon = "tools"
+  icon = "screwdriver"
   icon_pack = "fas"
   name = "Machine Shop"
   description = "Metalworking & Soldering, Woodworking, 3D printing"
