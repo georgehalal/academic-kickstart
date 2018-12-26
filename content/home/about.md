@@ -12,7 +12,7 @@ weight = 1
   interests = [
     "Experimental High Energy Physics",
     "Deep Learning",
-    "Electronics"
+    "Detector R&D"
   ]
 
 # List your qualifications (such as academic degrees).
