@@ -23,14 +23,13 @@ date_format = "2006"
   company = "Yale University"
   company_url = ""
   location = ""
-  date_start = "2018-01-01"
+  date_start = "2018-06-01"
   date_end = ""
   description = """
   Advisors: Helen Caines & John Harris
   
-  * Simulated proton-proton collisions at RHIC energies using PYTHIA, and clustered final state particles into jets using FastJet.
+  * Simulated proton-proton and heavy-ion collisions at RHIC energies, clustered final state particles into jets, and added detector effects.
   * Trained an artificial neural network using Keras on a list of discriminators to be able to classify charm, bottom, and light jets.
-  * Included STAR detector effects and tracking efficiency.
   * Developed a new jet tagging strategy for RHIC.
   * Presented results at the 2018 STAR Winter Analysis Meeting at Brookhaven National Laboratory.
   """
@@ -40,7 +39,7 @@ date_format = "2006"
   company = "Lehigh University & The Ohio State University"
   company_url = ""
   location = ""
-  date_start = "2018-01-01"
+  date_start = "2018-01-20"
   date_end = ""
   description = """
   Advisors: Rosi Reed & Michael Lisa
