@@ -74,7 +74,6 @@ date_format = "2006"
   description = """
   Advisors: Rosi Reed
   
-  * a
   """
 
 +++
