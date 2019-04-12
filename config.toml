@@ -13,7 +13,7 @@ title = "George Halal"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018 George Halal"
+copyright = "&copy; 2019 George Halal"
 
 theme = "academic"
 enableEmoji = true
@@ -53,11 +53,11 @@ enableGitInfo = false
 
   # Your details.
   name = "George Halal"
-  role = "Undergraduate High Energy Physics Researcher"
+  role = "Incoming Physics PhD Student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Lehigh University", url = "https://www1.lehigh.edu/home" } ]
+  organizations = [ { name = "Stanford University", url = "https://www.stanford.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "GeorgeHalal.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -269,7 +269,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "files/CV_GeorgeHalal_Dec2018.pdf"
+    link = "files/CV_GeorgeHalal_Apr2019.pdf"
 
   #[[params.social]]
   #  icon = "github"
@@ -320,7 +320,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[menu.main]]
     name = "CV"
-    url = "files/CV_GeorgeHalal_Dec2018.pdf"
+    url = "files/CV_GeorgeHalal_Apr2019.pdf"
     weight = 6
 
 # Search.
