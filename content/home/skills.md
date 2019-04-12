@@ -49,7 +49,7 @@ weight = 2
   icon = "laptop"
   icon_pack = "fas"
   name = "Other Software"
-  description = "AutoCAD, Microsoft Office"  
+  description = "AutoCAD, Microsoft Office, Git"  
   
 [[feature]]
   icon = "bolt"
