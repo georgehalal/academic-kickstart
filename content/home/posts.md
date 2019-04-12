@@ -23,8 +23,8 @@ date_format = "2006"
   company = "Lehigh University & The Ohio State University"
   company_url = ""
   location = ""
-  date_start = "2016"
-  date_end = "2018"
+  date_start = "2016-01-01"
+  date_end = "2018-01-01"
   description = """
   Advisors: Rosi Reed & Michael Lisa
   
@@ -36,8 +36,8 @@ date_format = "2006"
   company = "The Ohio State University"
   company_url = ""
   location = ""
-  date_start = "2017"
-  date_end = "2017"
+  date_start = "2017-01-01"
+  date_end = "2017-01-01"
   description = """
   Advisors: Rosi Reed & Michael Lisa
   
