@@ -23,7 +23,7 @@ date_format = "2006"
   company = "Yale University"
   company_url = ""
   location = ""
-  date_start = "2018"
+  date_start = "2018-01-01"
   date_end = ""
   description = """
   Advisors: Helen Caines & John Harris
@@ -38,13 +38,13 @@ date_format = "2006"
   company = "Lehigh University & The Ohio State University"
   company_url = ""
   location = ""
-  date_start = "2018"
-  date_end = "2019"
+  date_start = "2018-01-01"
+  date_end = "2019-01-01"
   description = """
   Advisors: Rosi Reed & Michael Lisa
   
   * Trained an artificial neural network to identify the centrality of a collision, based on which of the detector tiles are hit during a given collision.
-  * Trained another network to identify the $2^{nd}$ order event plane of a collision by minimizing the difference between the event planes measured by the east and west detectors.
+  * Trained another network to identify the second order event plane of a collision by minimizing the difference between the event planes measured by the east and west detectors.
   """
   
 [[experience]]
@@ -52,8 +52,8 @@ date_format = "2006"
   company = "Lehigh University"
   company_url = ""
   location = ""
-  date_start = "2017"
-  date_end = "2018"
+  date_start = "2017-01-01"
+  date_end = "2018-01-01"
   description = """
   Advisors: Rosi Reed
   
@@ -69,11 +69,12 @@ date_format = "2006"
   company = "Lehigh University"
   company_url = ""
   location = ""
-  date_start = "2016"
-  date_end = "2016"
+  date_start = "2016-01-01"
+  date_end = "2016-01-01"
   description = """
   Advisors: Rosi Reed
   
+  * a
   """
 
 +++
