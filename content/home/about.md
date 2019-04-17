@@ -7,30 +7,11 @@ date = 2018-12-25T00:00:00
 # Order that this section will appear in.
 weight = 1
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Neutrino Physics",
-    "Dark Matter Searches",
-    "Machine Learning",
-    "Detector R&D"
-  ]
+# List your academic interests form word doc.
 
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Physics"
-  institution = "Stanford University, CA, USA"
-  year = 2024
 
-[[education.courses]]
-  course = "BS in Physics, Minor in Applied Mathematics, GPA: 3.97/4.00"
-  institution = "Lehigh University, PA, USA"
-  year = 2019
+# List your qualifications (such as academic degrees) from word doc.
 
-[[education.courses]]
-  course = "High School, GPA: 4.00/4.00 (Valedictorian)"
-  institution = "Eastwood International School, Beirut, Lebanon"
-  year = 2015
  
 +++
 
