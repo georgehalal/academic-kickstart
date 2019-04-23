@@ -57,7 +57,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "https://www.stanford.edu/" } ]
+  organizations = [ { name = "Stanford University", url = "https://physics.stanford.edu/research/research-areas" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "GeorgeHalal.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
