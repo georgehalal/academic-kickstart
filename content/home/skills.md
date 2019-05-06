@@ -31,12 +31,12 @@ weight = 2
   icon = "code"
   icon_pack = "fas"
   name = "Programming"
-  description = "C++, Python, Arduino, LabVIEW, LaTeX, Slurm"  
+  description = "C++, Python, Arduino, LabVIEW, LaTeX"  
   
 [[feature]]
   icon = "atom"
   icon_pack = "fas"
-  name = "Technical Software"
+  name = "Technical"
   description = "ROOT, PYTHIA, FastJet, JETSCAPE, DiffGeo"
   
 [[feature]]
@@ -48,8 +48,8 @@ weight = 2
 [[feature]]
   icon = "laptop"
   icon_pack = "fas"
-  name = "Other Software"
-  description = "AutoCAD, Microsoft Office, Git"  
+  name = "Other (Computing)"
+  description = "Git, Slurm, AutoCAD, Microsoft Office"  
   
 [[feature]]
   icon = "bolt"
@@ -61,7 +61,7 @@ weight = 2
   icon = "screwdriver"
   icon_pack = "fas"
   name = "Machine Shop"
-  description = "Metalworking & Soldering, Woodworking, 3D printing"
+  description = "Metalworking & Soldering, Woodworking, 3D Printing"
  
 [[feature]]
   icon = "language"
