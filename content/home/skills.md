@@ -49,7 +49,7 @@ weight = 2
   icon = "laptop"
   icon_pack = "fas"
   name = "Other (Computing)"
-  description = "Git, Slurm, AutoCAD, Microsoft Office"  
+  description = "Git, Emacs, Slurm, AutoCAD, Microsoft Office"  
   
 [[feature]]
   icon = "bolt"
