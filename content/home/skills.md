@@ -31,7 +31,7 @@ weight = 2
   icon = "code"
   icon_pack = "fas"
   name = "Programming"
-  description = "C++, Python, Arduino, LabVIEW, Mathematica, LaTeX"  
+  description = "Python, C++, Arduino, LabVIEW, Mathematica, LaTeX"  
   
 [[feature]]
   icon = "atom"
