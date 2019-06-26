@@ -63,8 +63,8 @@ enableGitInfo = false
   avatar = "GeorgeHalal.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "halalgeorge@gmail.com"
-  address = ""
+  email = "georgech@stanford.edu"
+  address = "Stanford, CA 94305"
   office_hours = ""
   phone = "+1 929 385 5086"
   skype = "george-hallal"
