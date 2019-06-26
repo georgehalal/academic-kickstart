@@ -53,7 +53,7 @@ enableGitInfo = false
 
   # Your details.
   name = "George Halal"
-  role = "Incoming Physics PhD Student"
+  role = "Physics Ph.D. Student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -64,7 +64,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "halalgeorge@gmail.com"
-  address = "4 Farrington Square # 5699, Bethlehem, PA, 18015, USA"
+  address = ""
   office_hours = ""
   phone = "+1 929 385 5086"
   skype = "george-hallal"
@@ -269,7 +269,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "files/CV_GeorgeHalal_May2019.pdf"
+    link = "files/CV_GeorgeHalal_June2019.pdf"
 
   #[[params.social]]
   #  icon = "github"
@@ -315,7 +315,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[menu.main]]
     name = "CV"
-    url = "files/CV_GeorgeHalal_May2019.pdf"
+    url = "files/CV_GeorgeHalal_June2019.pdf"
     weight = 6
 
 # Search.
