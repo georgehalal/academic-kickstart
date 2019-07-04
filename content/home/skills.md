@@ -46,16 +46,22 @@ weight = 2
   description = "Keras (TensorFlow), scikit-learn, TMultilayerPerceptron, TMLPAnalyzer"
   
 [[feature]]
+  icon = "pencil-ruler"
+  icon_pack = "fas"
+  name = "CAD"
+  description = "SolidWorks, AutoCAD"
+  
+[[feature]]
   icon = "laptop"
   icon_pack = "fas"
-  name = "Other (Computing)"
-  description = "Git, Emacs, Slurm, AutoCAD, Microsoft Office"  
+  name = "Computing Tools"
+  description = "Git, Emacs, Slurm, Microsoft Office"  
   
 [[feature]]
   icon = "bolt"
   icon_pack = "fas"
   name = "Electronics"
-  description = "Oscilloscope, Function Generator, Multimeter, Lock-in Amplifier"  
+  description = "Oscilloscope, Function Generator, Multimeter, Lock-in Amplifier, Power Supply"  
   
 [[feature]]
   icon = "screwdriver"
