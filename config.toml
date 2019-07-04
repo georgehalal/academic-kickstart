@@ -269,7 +269,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "files/CV_GeorgeHalal_June2019.pdf"
+    link = "files/CV_GeorgeHalal_July2019.pdf"
 
   #[[params.social]]
   #  icon = "github"
