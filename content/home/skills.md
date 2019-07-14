@@ -37,7 +37,7 @@ weight = 2
   icon = "atom"
   icon_pack = "fas"
   name = "Technical"
-  description = "ROOT, PYTHIA, FastJet, JETSCAPE, DiffGeo"
+  description = "ROOT, PyROOT, PYTHIA, FastJet, JETSCAPE, DiffGeo"
   
 [[feature]]
   icon = "robot"
