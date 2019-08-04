@@ -53,7 +53,7 @@ enableGitInfo = false
 
   # Your details.
   name = "George Halal"
-  role = "Physics Ph.D. Student"
+  role = [ { name = "Physics Ph.D. Student", url = "https://profiles.stanford.edu/george-halal" } ]
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -269,7 +269,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "files/CV_GeorgeHalal_July2019.pdf"
+    link = "files/CV_GeorgeHalal_Aug2019.pdf"
 
   #[[params.social]]
   #  icon = "github"
@@ -315,7 +315,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[menu.main]]
     name = "CV"
-    url = "files/CV_GeorgeHalal_July2019.pdf"
+    url = "files/CV_GeorgeHalal_Aug2019.pdf"
     weight = 6
 
 # Search.
