@@ -73,7 +73,7 @@ weight = 2
   icon = "screwdriver"
   icon_pack = "fas"
   name = "Machine Shop"
-  description = "Metalworking & Soldering, Woodworking, 3D Printing"
+  description = "Metalworking (incl. Soldering & Magnetic Drilling), Woodworking, 3D Printing"
  
 [[feature]]
   icon = "language"
