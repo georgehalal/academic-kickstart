@@ -55,7 +55,13 @@ weight = 2
   icon = "laptop"
   icon_pack = "fas"
   name = "Computing Tools"
-  description = "Git, Emacs, Slurm, Microsoft Office"  
+  description = "Git, Vim, Slurm, Microsoft Office"  
+  
+[[feature]]
+  icon = "cogs"
+  icon_pack = "fas"
+  name = "Hardware"
+  description = "Vacuum & Cryogenic Technologies, Ultrasonic Cleaning, Epoxying"  
   
 [[feature]]
   icon = "bolt"
