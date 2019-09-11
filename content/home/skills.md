@@ -55,13 +55,13 @@ weight = 2
   icon = "laptop"
   icon_pack = "fas"
   name = "Computing Tools"
-  description = "Git, Vim, Slurm, Microsoft Office"  
+  description = "Git, Jupyter Notebook, Vim, Slurm, Microsoft Office"  
   
 [[feature]]
   icon = "cogs"
   icon_pack = "fas"
   name = "Hardware"
-  description = "Vacuum & Cryogenic Technologies, Ultrasonic Cleaning, Epoxying"  
+  description = "Vacuum & Cryogenic Technologies, Ultrasonic Cleaning, Epoxying, Leak Checking, Metalworking (incl. Soldering & Magnetic Drilling), Woodworking, 3D Printing"  
   
 [[feature]]
   icon = "bolt"
@@ -69,11 +69,11 @@ weight = 2
   name = "Electronics"
   description = "Oscilloscope, Function Generator, Multimeter, Lock-in Amplifier, Power Supply"  
   
-[[feature]]
-  icon = "screwdriver"
-  icon_pack = "fas"
-  name = "Machine Shop"
-  description = "Metalworking (incl. Soldering & Magnetic Drilling), Woodworking, 3D Printing"
+# [[feature]]
+#  icon = "screwdriver"
+#  icon_pack = "fas"
+#  name = "Machine Shop"
+#  description = ""
  
 [[feature]]
   icon = "language"
