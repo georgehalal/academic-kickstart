@@ -67,7 +67,7 @@ weight = 2
   icon = "bolt"
   icon_pack = "fas"
   name = "Electronics"
-  description = "Oscilloscope, Function Generator, Multimeter, Lock-in Amplifier, Power Supply"  
+  description = "Oscilloscope, Function Generator, Multimeter, Lock-in Amplifier, High Voltage & Low Voltage Power Supplies"  
   
 # [[feature]]
 #  icon = "screwdriver"
