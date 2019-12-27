@@ -66,7 +66,7 @@ enableGitInfo = false
   email = "georgech@stanford.edu"
   address = "Stanford, CA 94305"
   office_hours = ""
-  phone = "+1 929 385 5086"
+  phone = "+1 650 422 9033"
   skype = "george-hallal"
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -269,7 +269,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "files/CV_GeorgeHalal_Sept2019.pdf"
+    link = "files/CV_GeorgeHalal_Dec2019.pdf"
 
   #[[params.social]]
   #  icon = "github"
@@ -315,7 +315,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[menu.main]]
     name = "CV"
-    url = "files/CV_GeorgeHalal_Sept2019.pdf"
+    url = "files/CV_GeorgeHalal_Dec2019.pdf"
     weight = 6
 
 # Search.
