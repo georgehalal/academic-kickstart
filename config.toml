@@ -13,7 +13,7 @@ title = "George Halal"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019 George Halal"
+copyright = "&copy; 2020 George Halal"
 
 theme = "academic"
 enableEmoji = true
@@ -269,7 +269,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "files/CV_GeorgeHalal_Dec2019.pdf"
+    link = "files/CV_GeorgeHalal_Jan2020.pdf"
 
   #[[params.social]]
   #  icon = "github"
@@ -315,7 +315,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[menu.main]]
     name = "CV"
-    url = "files/CV_GeorgeHalal_Dec2019.pdf"
+    url = "files/CV_GeorgeHalal_Jan2020.pdf"
     weight = 6
 
 # Search.
