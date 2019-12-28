@@ -25,7 +25,7 @@ weight = 2
   icon = "terminal"
   icon_pack = "fas"
   name = "Platforms"
-  description = "Linux, Windows, Macintosh"
+  description = "Linux, Microsoft Windows, Macintosh"
   
 [[feature]]
   icon = "code"
@@ -34,16 +34,16 @@ weight = 2
   description = "Python, C++, Arduino, LabVIEW, Mathematica, LaTeX"  
   
 [[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "Keras (TensorFlow), PyTorch, scikit-learn, TMultilayerPerceptron, TMLPAnalyzer"
+  
+[[feature]]
   icon = "atom"
   icon_pack = "fas"
   name = "Technical"
   description = "ROOT, PyROOT, PYTHIA, FastJet, JETSCAPE, DiffGeo"
-  
-[[feature]]
-  icon = "robot"
-  icon_pack = "fas"
-  name = "Machine Learning"
-  description = "Keras (TensorFlow), scikit-learn, TMultilayerPerceptron, TMLPAnalyzer"
   
 [[feature]]
   icon = "pencil-ruler"
@@ -61,7 +61,7 @@ weight = 2
   icon = "cogs"
   icon_pack = "fas"
   name = "Hardware"
-  description = "Vacuum & Cryogenic Technologies, Ultrasonic Cleaning, Epoxying, Leak Checking, Metalworking (incl. Soldering & Magnetic Drilling), Woodworking, 3D Printing"  
+  description = "Vacuum & Cryogenic Technologies, Ultrasonic Cleaning, Epoxying, Metalworking (incl. Soldering & Magnetic Drilling), Woodworking, 3D Printing"  
   
 [[feature]]
   icon = "bolt"
