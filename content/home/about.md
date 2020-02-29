@@ -19,4 +19,4 @@ weight = 1
 
 Born and raised in Syria, my family and I moved to Lebanon in 2012 due to the Syrian Civil War. After graduating high school in Lebanon, I moved to the U.S., where I'm currently seeking asylum.
 
-I am currently a first-year physics Ph.D. student at Stanford University. I work with Dr. Daniel Gruen and Prof. Risa Wechsler at the Kavli Institute for Particle Astrophysics and Cosmology (KIPAC) at Stanford. I use machine learning and other data science techniques to develop statistical methods for enhancing cosmological measurements and simulations.
+I am currently a first-year physics Ph.D. student at Stanford University in the Lensing Surveys Cosmology (LSC) group. I work with Dr. Daniel Gruen and Prof. Risa Wechsler at the Kavli Institute for Particle Astrophysics and Cosmology (KIPAC) at Stanford. I use machine learning and other data science techniques to develop statistical methods for enhancing cosmological measurements and simulations.
