@@ -37,7 +37,7 @@ weight = 2
   icon = "robot"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "Keras (TensorFlow), PyTorch, scikit-learn, TMultilayerPerceptron, TMLPAnalyzer"
+  description = "PyTorch, Keras, TensorFlow, scikit-learn"
   
 [[feature]]
   icon = "atom"
@@ -55,7 +55,7 @@ weight = 2
   icon = "laptop"
   icon_pack = "fas"
   name = "Computing Tools"
-  description = "Git, Jupyter Notebook, Vim, Slurm, Microsoft Office"  
+  description = "Git, Vim, Slurm, Microsoft Office"  
   
 [[feature]]
   icon = "cogs"
