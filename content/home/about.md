@@ -17,6 +17,6 @@ weight = 1
 
 # About Me
 
-Born and raised in Syria, my family and I moved to Lebanon in 2012 due to the Syrian Civil War. After graduating high school in Lebanon, I moved to the U.S., where I'm currently seeking asylum.
+Born and raised in Syria, my family and I fled to Lebanon in 2012 due to the Syrian Civil War. After graduating high school in Lebanon, I moved to the U.S., where I'm currently seeking asylum.
 
-I'm a first-year physics Ph.D. student at Stanford University. I'm currently rotating with the Lensing Surveys Cosmology (LSC) group, led by Dr. Daniel Gruen at the Kavli Institute for Particle Astrophysics and Cosmology (KIPAC) at Stanford, and I'm coadvised by Prof. Risa Wechsler. I use machine learning and other data science techniques to develop statistical methods for enhancing cosmological measurements and simulations.
+I'm a first-year physics Ph.D. student at Stanford University. I'm a member of the Cosmic Microwave Background (CMB) group, led by Prof. Chao-Lin Kuo at the Kavli Institute for Particle Astrophysics and Cosmology (KIPAC) at Stanford. I currently work on modeling polarized galactic dust emission, which is the dominant polarized CMB foreground at large angular scales and high frequencies. In my free time, I work with a couple of colleagues at KIPAC on developing machine learning models for enhancing cosmological simulations.
