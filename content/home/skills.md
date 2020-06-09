@@ -31,7 +31,7 @@ weight = 2
   icon = "code"
   icon_pack = "fas"
   name = "Programming"
-  description = "Python, C++, Arduino, LabVIEW, Mathematica, LaTeX"  
+  description = "Python, MATLAB, C++, Arduino, LabVIEW, Mathematica, LaTeX"  
   
 [[feature]]
   icon = "robot"
@@ -43,7 +43,7 @@ weight = 2
   icon = "atom"
   icon_pack = "fas"
   name = "Technical"
-  description = "ROOT, PyROOT, PYTHIA, FastJet, JETSCAPE, DiffGeo"
+  description = "Healpy, NaMaster, Meander, ROOT, PyROOT, PYTHIA, FastJet, JETSCAPE, DiffGeo"
   
 [[feature]]
   icon = "pencil-ruler"
