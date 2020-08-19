@@ -31,19 +31,19 @@ weight = 2
   icon = "code"
   icon_pack = "fas"
   name = "Programming"
-  description = "Python, MATLAB, C++, Arduino, LabVIEW, Mathematica, LaTeX"  
+  description = "Python, MATLAB, C++, LabVIEW, Arduino, Mathematica, LaTeX"  
   
 [[feature]]
   icon = "robot"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "PyTorch, Keras, TensorFlow, scikit-learn"
+  description = "PyTorch, Keras (TensorFlow backend), scikit-learn"
   
 [[feature]]
   icon = "atom"
   icon_pack = "fas"
   name = "Technical"
-  description = "Healpy, NaMaster, Meander, ROOT, PyROOT, PYTHIA, FastJet, JETSCAPE, DiffGeo"
+  description = "Healpy, Meander, ROOT, PyROOT, PYTHIA, FastJet, JETSCAPE, DiffGeo"
   
 [[feature]]
   icon = "pencil-ruler"
