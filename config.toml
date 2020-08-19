@@ -310,13 +310,18 @@ enableGitInfo = false
   name = "Contact"
   url = "#contact"
   weight = 5
+  
+ [[menu.main]]
+  name = "Research"
+  url = "http://stanford.edu/~georgech/"
+  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[menu.main]]
     name = "CV"
     url = "files/CV_GeorgeHalal_Aug2020.pdf"
-    weight = 6
+    weight = 7
 
 # Search.
 [params.search]
