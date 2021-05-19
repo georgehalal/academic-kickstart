@@ -12,7 +12,7 @@ weight = 2
 
 [background]
     image = "intro.gif"
-    image_darken: 1.0
+    image_darken = 1.0
     image_parallax = true
     image_position = center
     image_size = cover
