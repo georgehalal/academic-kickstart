@@ -4,11 +4,12 @@ widget= "hero"
 # Activate this widget? true/false
 active= true
 
-# This file represents a page section.
-headless= true
+title = "Current Project"
 
 # Order that this section appears on the page.
 weight = 2
+
+hero_media = "intro.gif"
 
 [background]
     image = "intro.gif"
@@ -17,3 +18,4 @@ weight = 2
     text_color_light = true
 +++
 # Current Project
+I'm working on
