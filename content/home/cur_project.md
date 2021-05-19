@@ -9,7 +9,7 @@ title = "Current Project"
 # Order that this section appears on the page.
 weight = 2
 
-hero_media = "intro.gif"
+hero_media = "I_VC1.png"
 
 [background]
     image = "intro.gif"
