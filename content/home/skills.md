@@ -31,7 +31,7 @@ weight = 2
   icon = "code"
   icon_pack = "fas"
   name = "Programming"
-  description = "Python, MATLAB, C++, LabVIEW, Arduino, Mathematica, LaTeX"  
+  description = "Python, MATLAB, C++, LabVIEW, Arduino, LaTeX"  
   
 [[feature]]
   icon = "robot"
@@ -43,7 +43,7 @@ weight = 2
   icon = "atom"
   icon_pack = "fas"
   name = "Technical"
-  description = "Healpy, Meander, ROOT, PyROOT, PYTHIA, FastJet, JETSCAPE, DiffGeo"
+  description = "emcee, pyGTC, dynesty, incredible, Healpy, Meander, PySM, ROOT, PYTHIA, FastJet"
   
 [[feature]]
   icon = "pencil-ruler"
@@ -55,7 +55,7 @@ weight = 2
   icon = "laptop"
   icon_pack = "fas"
   name = "Computing Tools"
-  description = "Git, Vim, Slurm, Microsoft Office"  
+  description = "Git, Slurm, Vim, Microsoft Office"  
   
 [[feature]]
   icon = "cogs"
