@@ -2,7 +2,7 @@
 widget= "hero"
 
 # Activate this widget? true/false
-active= true
+active= false
 
 title = "Current Project"
 
