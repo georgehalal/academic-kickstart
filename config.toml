@@ -312,7 +312,7 @@ enableGitInfo = false
   weight = 5
   
  [[menu.main]]
-  name = "Research"
+  name = "Research Blog"
   url = "http://stanford.edu/~georgech/"
   weight = 6
 
