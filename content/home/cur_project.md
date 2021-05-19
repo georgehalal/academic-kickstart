@@ -1,5 +1,5 @@
 +++
-widget= "blank"
+widget= "hero"
 
 # Activate this widget? true/false
 active= true
